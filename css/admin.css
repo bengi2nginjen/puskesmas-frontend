@@ -1,0 +1,17 @@
+.button-flex-container {
+    display: flex;
+    align-items: center;
+}
+.button-flex-container .divider {
+    flex: 1;
+    height: 1px;
+    background-color: #8d8d8d; /* Change color of divider line */
+}
+
+.option-text.form-control{
+    font-size: 14px;
+}
+
+.bi.bi-x{
+    font-size: 20px;
+}
